@@ -7,7 +7,7 @@
    [logo]: https://img.memecdn.com/what-a-wonderful-phrase_o_3004627.jpg "logo"
     
 
-   ## Me, in one sentence (as a smaller header)
+   ## Me, in one sentence 
    
    | intro | ans |
    |:-----:|:-----:|
@@ -27,24 +27,18 @@
    * brooklyn 99
    * uncle roger videos
    * stand-up
-    
-   This should contain a bullet list of your hobbies
-    At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
-
-   ##You can always count on me when you need someone to talk to... (smaller header)
-
    
 
-   Tell your teammates which positive contribution to the group you will make.
-    This could be technical, making people feel comfortable, being an organiser...
+   ## You can always count on me when you need someone to talk to
+   
 
-   ##A funny story (smaller header)
+   ## A funny story
 
-   When I was little, one time in winter,my parents wrapped me in heavy clothes to avoid me catching cold, which made me look like a ball. When we go on a hill, I fell and rolled down just until the bottom of the hill. And surprisingly I didn;t hurt at all:)
+   When I was 1 yrs-old, one time in winter, my parents wrapped me in heavy clothes before going out, which made me look like a ball. Just when we went on a hill, I fell down and rolled down straightly to the bottom of the hill then across a big road. And surprisingly I didn't hurt at all:)
 
-   TL;DR (even smaller header, under funny story)
-    ###What a miracle
-    Summarise your funny story in one short sentence.
+   ### TL;DR 
+   #### too young too die lol
+   
 
    ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
     Organise yourself so it is easy to know who you should link to.
