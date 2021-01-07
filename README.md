@@ -12,6 +12,7 @@
 
     A table with the following structure:
    | petit | intro |
+   | -----:|:-----:|
    | Birthday | 07/26 |
    | Favorite color | red |
    | Favorite food | pizza |
