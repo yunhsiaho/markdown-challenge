@@ -4,7 +4,7 @@
 
    A (professional) photo of yourself (you can save the file in the repository next to the README file)
    
-   ![Drag Racing](https://www.fluentu.com/blog/english/wp-content/uploads/sites/4/2015/04/CYCZiQA.png)
+   ![Drag Racing](https://media-exp1.licdn.com/dms/image/C4E03AQF2NxWKOlWBFw/profile-displayphoto-shrink_200_200/0/1608233813320?e=1615420800&v=beta&t=Ql21IoOf2fCCZZtL5YkEgbWtABHHdU3umXVKdmFV-5M)
     
 
    ## Me, in one sentence 
