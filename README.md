@@ -10,13 +10,13 @@
 
     ## Me, in one sentence (as a smaller header)
 
-    A table with the following structure:
+    A table with the following structreferenture:
    | petit | intro |
    | -----:|:-----:|
    | Birthday | 07/26 |
    | Favorite color | red |
    | Favorite food | pizza |
-   | Pinneapple on pizza | []Yes [x]No |(Extra challenge: make it look like a (un)checked checkbox)
+   | Pinneapple on pizza | - []Yes - [x]No |(Extra challenge: make it look like a (un)checked checkbox)
 
     ##Hobbies (smaller header)
      watching movie
