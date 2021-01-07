@@ -3,7 +3,7 @@
  *HAIYAA*
 
    A (professional) photo of yourself (you can save the file in the repository next to the README file)
-   [ logo ] : https://img.memecdn.com/mais-quelle-phrase-fantastique-what-a-wonderful-phrase_o_3034369.jpg
+   [ logo ] : https://img.memecdn.com/mais-quelle-phrase-fantastique-what-a-wonderful-phrase_o_3034369.jpg "logo"
     
 
    ## Me, in one sentence (as a smaller header)
