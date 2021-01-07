@@ -15,12 +15,13 @@
    | Favorite food | pizza |
    | Pinneapple on pizza | &#9744; Yes &#9745; No | (Extra challenge: make it look like a (un)checked checkbox)
 
-   ##Hobbies (smaller header)
-     watching movie
-    * LA LA LAND
+   ## Hobbies (smaller header)
+    
+   watching movie
+    --* LA LA LAND
     * HARRY PORTER
     * MARVEL
-    watching comedy
+   watching comedy
     * brooklyn 99
     * uncle roger videos
     * stand-up
