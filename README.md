@@ -18,12 +18,12 @@
 
    ## Hobbies (smaller header)
     
-   watching movie
+   ###watching movie
    * LA LA LAND
    * HARRY PORTER
    * MARVEL
    
-   watching comedy
+   ###watching comedy
    * brooklyn 99
    * uncle roger videos
    * stand-up
