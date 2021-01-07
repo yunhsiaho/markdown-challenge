@@ -19,13 +19,13 @@
    ## Hobbies (smaller header)
     
    watching movie
-    --* LA LA LAND
-    * HARRY PORTER
-    * MARVEL
+   * LA LA LAND
+   * HARRY PORTER
+   * MARVEL
    watching comedy
-    * brooklyn 99
-    * uncle roger videos
-    * stand-up
+   * brooklyn 99
+   * uncle roger videos
+   * stand-up
     
    This should contain a bullet list of your hobbies
     At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
