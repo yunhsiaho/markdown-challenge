@@ -11,11 +11,11 @@
     ## Me, in one sentence (as a smaller header)
 
     A table with the following structure:
-
-   | Birthday|07/26|
-   |Favorite color| red|
-   | Favorite food| pizza|
-   | Pinneapple on pizza| []Yes [x]No |(Extra challenge: make it look like a (un)checked checkbox)
+   | petit | intro |
+   | Birthday | 07/26 |
+   | Favorite color | red |
+   | Favorite food | pizza |
+   | Pinneapple on pizza | []Yes [x]No |(Extra challenge: make it look like a (un)checked checkbox)
 
     ##Hobbies (smaller header)
      watching movie
@@ -23,9 +23,9 @@
     * HARRY PORTER
     * MARVEL
     watching comedy
-    *brooklyn 99
-    *uncle roger videos
-    *stand-up
+    * brooklyn 99
+    * uncle roger videos
+    * stand-up
     
     This should contain a bullet list of your hobbies
     At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
