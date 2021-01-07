@@ -2,8 +2,6 @@
 
  *HAIYAA*
 
-   A (professional) photo of yourself (you can save the file in the repository next to the README file)
-   
    ![Drag Racing](https://media-exp1.licdn.com/dms/image/C4E03AQF2NxWKOlWBFw/profile-displayphoto-shrink_200_200/0/1608233813320?e=1615420800&v=beta&t=Ql21IoOf2fCCZZtL5YkEgbWtABHHdU3umXVKdmFV-5M)
     
 
@@ -40,10 +38,6 @@
    #### too young too die lol
    
 
-   ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-    Organise yourself so it is easy to know who you should link to.
-
-   The links should have the following structure:
 
    << [previous](https://github.com/szobonyatomi/markdown-challenge/blob/master/README.md) || HO Yun-Hsia || [next] >>
 
