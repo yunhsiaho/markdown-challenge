@@ -45,5 +45,5 @@
 
    The links should have the following structure:
 
-   << previous || YOUR NAME || next >>
+   << [previous](README.md) || YOUR NAME || next >>
 
