@@ -45,5 +45,5 @@
 
    The links should have the following structure:
 
-   << [previous](README.md) || YOUR NAME || next >>
+   << [previous](szobonyatomi/markdown-challenge/README.md) || YOUR NAME || next >>
 
