@@ -3,7 +3,7 @@
  *HAIYAA*
 
    A (professional) photo of yourself (you can save the file in the repository next to the README file)
-   [ logo ] : https://media-exp1.licdn.com/dms/image/C4E03AQF2NxWKOlWBFw/profile-displayphoto-shrink_200_200/0/1608233813320?e=1615420800&v=beta&t=Ql21IoOf2fCCZZtL5YkEgbWtABHHdU3umXVKdmFV-5M.png
+   [ logo ] : /home/hsia/becode/markdown-challenge/CAT.png
     
 
    ## Me, in one sentence (as a smaller header)
