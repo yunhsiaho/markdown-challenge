@@ -4,7 +4,7 @@
 
    A (professional) photo of yourself (you can save the file in the repository next to the README file)
    
-   [logo]: https://img.memecdn.com/what-a-wonderful-phrase_o_3004627.jpg "logo"
+   ![Drag Racing](https://www.fluentu.com/blog/english/wp-content/uploads/sites/4/2015/04/CYCZiQA.png)
     
 
    ## Me, in one sentence 
@@ -45,5 +45,5 @@
 
    The links should have the following structure:
 
-   << [previous](https://github.com/szobonyatomi/markdown-challenge/blob/master/README.md) || YOUR NAME || next >>
+   << [previous](https://github.com/szobonyatomi/markdown-challenge/blob/master/README.md) || HO Yun-Hsia || [next] >>
 
