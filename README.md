@@ -11,7 +11,7 @@
     ## Me, in one sentence (as a smaller header)
 
     A table with the following structreferenture:
-   | petit | intro |
+   | intro | ans |
    |:-----:|:-----:|
    | Birthday | 07/26 |
    | Favorite color | red |
