@@ -11,7 +11,7 @@
    |:-----:|:-----:|
    | Birthday | 07/26 |
    | Favorite color | red |
-   | Favorite food | pizza |
+   | Favorite food | sushi |
    | Pinneapple on pizza | &#9744; Yes &#9745; No | (Extra challenge: make it look like a (un)checked checkbox)
 
    ## Hobbies
