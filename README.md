@@ -26,7 +26,7 @@
    * uncle roger videos
    * stand-up
    
-   ### -Traveling (maybe not now)
+   ### -Traveling (maybe not now...)
 
    ### -Anything about JAPAN
 
