@@ -17,14 +17,14 @@
    ## Hobbies
     
    ### * Watching movie
-   * LA LA LAND
-   * HARRY PORTER
+   ** LA LA LAND
+   ** HARRY PORTER
    * MARVEL
    
    ### * Watching comedy
-   * brooklyn 99
-   * uncle roger videos
-   * stand-up
+   ** brooklyn 99
+   ** uncle roger videos
+   ** stand-up
    
    ### * Traveling (maybe not now...)
 
