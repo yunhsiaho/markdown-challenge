@@ -26,8 +26,9 @@
    * uncle roger videos
    * stand-up
    
+   ### traveling (maybe not now)
 
-   ## You can always count on me when you need someone to talk to
+   ## You can always count on me when you need someone to talk to!
    
 
    ## A funny story
