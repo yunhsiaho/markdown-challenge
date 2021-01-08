@@ -2,10 +2,10 @@
 
  *HAIYAA*
 
-   ![Drag Racing](https://media-exp1.licdn.com/dms/image/C4E03AQF2NxWKOlWBFw/profile-displayphoto-shrink_200_200/0/1608233813320?e=1615420800&v=beta&t=Ql21IoOf2fCCZZtL5YkEgbWtABHHdU3umXVKdmFV-5M)
+   ![pic](https://media-exp1.licdn.com/dms/image/C4E03AQF2NxWKOlWBFw/profile-displayphoto-shrink_200_200/0/1608233813320?e=1615420800&v=beta&t=Ql21IoOf2fCCZZtL5YkEgbWtABHHdU3umXVKdmFV-5M)
     
 
-   ## Me, in one sentence 
+   ## The greatest sushi lover 
    
    | intro | ans |
    |:-----:|:-----:|
