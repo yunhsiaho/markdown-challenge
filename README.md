@@ -39,5 +39,5 @@
    
 
 
-   << [previous](https://github.com/szobonyatomi/markdown-challenge/blob/master/README.md) || HO Yun-Hsia || [next] >>
+   << [Szobonya Tomi](https://github.com/szobonyatomi/markdown-challenge/blob/master/README.md) || HO Yun-Hsia || [next] >>
 
