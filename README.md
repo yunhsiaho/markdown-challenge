@@ -16,19 +16,19 @@
    
    ## Hobbies
     
-   ### * Watching movie
-   ** LA LA LAND
-   ** HARRY PORTER
+   ### Watching movie
+   * LA LA LAND
+   * HARRY PORTER
    * MARVEL
    
-   ### * Watching comedy
-   ** brooklyn 99
-   ** uncle roger videos
-   ** stand-up
+   ### Watching comedy
+   * brooklyn 99
+   * uncle roger videos
+   * stand-up
    
-   ### * Traveling (maybe not now...)
+   ### Traveling (maybe not now...)
 
-   ### * Anything about JAPAN
+   ### Anything about JAPAN
 
    ## You can always count on me when you need someone to talk to!
    
