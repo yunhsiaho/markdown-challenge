@@ -28,6 +28,8 @@
    
    ### traveling (maybe not now)
 
+   ### anything about JAPAN
+
    ## You can always count on me when you need someone to talk to!
    
 
