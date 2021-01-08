@@ -12,8 +12,8 @@
    | Birthday | 07/26 |
    | Favorite color | red |
    | Favorite food | sushi |
-   | Pinneapple on pizza | &#9744; Yes &#9745; No | (Extra challenge: make it look like a (un)checked checkbox)
-
+   | Pinneapple on pizza | &#9744; Yes &#9745; No | 
+   
    ## Hobbies
     
    ### -Watching movie
@@ -42,5 +42,5 @@
    
 
 
-   << [William Vassaux ](https://github.com/Williamson911/markdown-challenge) || HO Yun-Hsia || [Zena Alsibaai](https://github.com/Zena-Alsibaai/markdown-challenge) >>
+   << [William Vassaux](https://github.com/Williamson911/markdown-challenge) || HO Yun-Hsia || [Zena Alsibaai](https://github.com/Zena-Alsibaai/markdown-challenge) >>
 
