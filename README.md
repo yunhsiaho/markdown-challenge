@@ -7,7 +7,7 @@
 
    ## ↑The greatest sushi lover 
    
-   | intro | ans |
+   | Q? | A! |
    |:-----:|:-----:|
    | Birthday | 07/26 |
    | Favorite color | red |
