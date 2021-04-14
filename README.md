@@ -1,6 +1,6 @@
  # HO Yun-Hsia
 
- *every 60 seconds in africa, a minute passes*
+ *Every 60 seconds in africa, a minute passes*
 
    ![pic](https://raw.githubusercontent.com/yunhsiaho/markdown-challenge/main/angel.jpeg)
     
@@ -23,7 +23,7 @@
    
    #### Watching comedy
    * brooklyn 99
-   * uncle roger videos
+   * --uncle roger videos--
    * stand-up
    
    #### Traveling (maybe not now...)
