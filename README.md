@@ -23,7 +23,7 @@
    
    #### Watching comedy
    * brooklyn 99
-   * --uncle roger videos--
+   * ~~uncle roger videos~~
    * stand-up
    
    #### Traveling (maybe not now...)
